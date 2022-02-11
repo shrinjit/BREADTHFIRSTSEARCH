@@ -122,7 +122,7 @@ stevedore==1.31.0
 testpath==0.4.4
 tornado==4.5.3
 traitlets==4.3.3
-Twisted==20.3.0
+Twisted==22.1.0
 uritemplate==3.0.1
 urllib3==1.25.8
 virtualenv==20.0.0
