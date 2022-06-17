@@ -111,7 +111,7 @@ rsa==3.4.2
 s3transfer==0.3.3
 schedule==0.6.0
 scipy==1.4.1
-Scrapy==2.1.0
+Scrapy==2.6.1
 selenium==3.141.0
 service-identity==18.1.0
 simplegeneric==0.8.1
